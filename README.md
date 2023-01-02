@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @firas1000
-- 👀 I’m interested in learning ML
+- 👀 I’m interested in learning using PY libraries
 - 🌱 I’m currently learning PY
 - 💞️ I’m looking to collaborate on anything beginer to medium
 - 📫 How to reach me fhalabiya@gmail.com
